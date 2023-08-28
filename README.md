@@ -1,4 +1,5 @@
  ## QR Code Generator
+ https://rajkashyap16.github.io/Day-15-challange/
 
 This is a simple QR code generator that allows users to input a name or URL and generate a QR code that can be scanned by any QR code reader.
 
